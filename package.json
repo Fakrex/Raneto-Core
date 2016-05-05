@@ -39,6 +39,7 @@
     "moment": "2.11.2",
     "underscore": "1.8.3",
     "underscore.string": "3.2.3",
+    "lunr-languages": "0.0.4",
     "validator": "4.8.0"
   },
   "devDependencies": {
